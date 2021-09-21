@@ -128,8 +128,9 @@ button {
 }
 
 .white-image{
-  width: auto;
+  width: 690px;
   height: auto;
+  text-align: center;
 }
 
 .exmaple{
