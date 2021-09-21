@@ -123,9 +123,14 @@ button {
   margin: 0 auto;
 }
 
+.avator-ex {
+  text-align: center;
+}
+
 .white-image{
   width: 690px;
   height: auto;
+  
 }
 
 .exmaple{
