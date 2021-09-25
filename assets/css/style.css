@@ -356,6 +356,7 @@ button {
 * Button
 *************************/
 .btn {
+  font-family: 'Gemunu Libre', sans-serif;
   display: block;
   text-decoration: none;
   cursor: pointer;
