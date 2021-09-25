@@ -294,28 +294,34 @@ button {
 }
 
 .section-title__stage {
+  font-family: 'Gemunu Libre', sans-serif;
   display: inline-block;
   margin-right: 2rem;
 }
 
 .section-title--keycolorlight {
+  font-family: 'Gemunu Libre', sans-serif;
   background-color: #8cc63f;
 }
 
 .section-title--keycolorlight .section-title__stage {
+  font-family: 'Gemunu Libre', sans-serif;
   color: #fff;
 }
 
 .section-title--keycolor {
+  font-family: 'Gemunu Libre', sans-serif;
   background-color: #39b54a;
 }
 
 .section-title--story {
+  font-family: 'Gemunu Libre', sans-serif;
   width: 330px;
   margin: 0 auto 20px;
 }
 
 .section-title--border {
+  font-family: 'Gemunu Libre', sans-serif;
   position: relative;
   font-size: 30px;
   text-align: center;
@@ -326,6 +332,7 @@ button {
 }
 
 .section-title--border::after {
+  font-family: 'Gemunu Libre', sans-serif;
   position: absolute;
   bottom: 0;
   left: calc(50% - 95px);
