@@ -347,6 +347,7 @@ button {
 * text
 ******************/
 .font-eng {
+  font-family: 'Gemunu Libre', sans-serif;
   font-style: italic;
   font-weight: normal;
 }
