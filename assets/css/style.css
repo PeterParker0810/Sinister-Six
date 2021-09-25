@@ -510,6 +510,7 @@ button {
 * Utility
 ********************/
 .text-center {
+  font-family: 'Gemunu Libre', sans-serif;
   text-align: center;
   color: #ffffff;
 }
